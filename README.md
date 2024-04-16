@@ -2,7 +2,7 @@ Jacob Evans <br>
 IST 256 <br>
 Final Project - FixMyDevice.Tech <br>
 
-<a href="URL">Github Pages Link</a>
+<a href="https://jxcob20.github.io/Final-Project_FixMyDevice.Tech">Github Pages Link</a>
 
 <a href="https://www.free-css.com/free-css-templates/page294/electrochip">Original Site Template</a>
 
